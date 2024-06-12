@@ -1,0 +1,39 @@
+{
+    "register":{
+        "register":"Register",
+        "title":"Online Education Paltform",
+        "introMessage":"Register to use the features of CLassbon online education platform",
+        "mobile":"Mobile",
+        "password":"Password",
+        "repeatPassword":"Repeat Password",
+        "alreadyRegister":"Already Register",
+        "signin":"Sign in",
+        "saving":"Saving ...",
+        "successOperation":"your change have beem successfully saved",
+        "validation":{
+            "mobileRequired":"Mobile is required",
+            "passwordRequired":"Password is required",
+            "repeatPasswordRequired":"Repeat Password is required",
+            "mobileLength":"Mobile numbers must be 11 digits",
+            "noMatching":"Password no matching",
+            "passwordTooShort": "Password must be at least 6 characters",
+            "duplicateUserName":"This user name Allready taken"
+        }
+
+    },
+    "login": {
+        "title": "Online Education Platform",
+        "introMessage": "To log in, you need to use your mobile phone and password",
+        "signingin": "Signing in ...",
+        "signin": "Sign in",
+        "register": "Register",
+        "mobile": "Mobile",
+        "password": "Password",
+        "areNotRegistered": "You're not registered?",
+        "validation": {
+          "mobileRequired": "Mobile is required",
+          "passwordRequired": "Password is required",
+          "IncorrectUserNameOrPassword": "The username or password is incorrect"
+        }
+      }
+}

@@ -1,0 +1,41 @@
+
+
+{
+    "register": {
+        "register":"ثبت نام کنید",
+        "title":"پلتفرم آموزش انلاین",
+        "introMessage":"جهت استفاده از ویژگی های پلتفرم آموزش آنلاین کلاسبن ثبت نام کنید",
+        "mobile":"موبایل",
+        "password":"رمز عبور",
+        "repeatPassword":"تکرار رمز عبور",
+        "alreadyRegister":"قبلا ثبت نام کرده اید؟",
+        "signin":"وارد شوید",
+        "saving":"در حال ذخیره اطلاعات...",
+        "successOperation":"عملیات با موفقیت انجام شد . به صفحه ورود منتقل میشوید",
+        "validation":{
+            "mobileRequired":"موبایل الزامی است",
+            "passwordRequired":"رمز عبور الزامی است",
+            "repeatPasswordRequired":"تکرار رمز عبور الزامی است",
+            "mobileLength":"شماره موبایل باید 11 رقم باشد",
+            "noMatching":"عدم تطابق رمز های وارد شده",
+            "passwordTooShort": "حداقل رمز عبور باید 6 کاراکتر باشد",
+            "duplicateUserName":"نام کاربری قبلا توسط کاربر دیگری ثبت شده است"
+        }
+
+    },
+    "login": {
+        "title": "پلتفرم آموزش آنلاین",
+        "introMessage": "جهت ورود لازم است از طریق موبایل و رمز عبور خود اقدام نمایید",
+        "signingin": "در حال ورود ...",
+        "signin": "وارد شوید",
+        "register": "ثبت نام کنید",
+        "mobile": "موبایل",
+        "password": "رمز عبور",
+        "areNotRegistered": "ثبت نام نکرده اید؟",
+        "validation": {
+          "mobileRequired": "موبایل الزامی است",
+          "passwordRequired": "رمز عبور الزامی است",
+          "IncorrectUserNameOrPassword": "موبایل یا رمز عبور صحیح نمی باشد"
+        }
+      }
+}
